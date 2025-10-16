@@ -12,7 +12,4 @@ You can easily set the length and complexity of the generated password.
 - Customizable password length
 - Beginner-friendly Python project
 
-## 🧩 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+
